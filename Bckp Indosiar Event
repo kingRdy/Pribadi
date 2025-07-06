@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_Z2ZABDX6MYMG-HFFbw5g6CIbQMnQtMbkQ&usqp=CAU" group-title="KONYOL", KONYOL 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://mastertv.tech/vid/drmris.php?id=19035&type=dash
+https://newfamilytv.my.id/vid/vid.mpd?id=19035&type=mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_Z2ZABDX6MYMG-HFFbw5g6CIbQMnQtMbkQ&usqp=CAU", group-title="KONYOL",KONYOL 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 28; en; PKZEHGRWNL) ExoPlayerLib/2.15.1
+
+https://live-xlvb.nsnd.live/_P8FYLnGuCSDbxbXT3Rk3A/cfb1d1e3eb5f383163a349652a8f21a5/1751827468/live/_definst_/stream_1_1bda7@caFHD/chunklist.m3u8
